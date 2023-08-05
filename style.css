@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  width: 50%;
+  margin: 1em auto;
+  padding: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+#hasil {
+  width: 50%;
+  margin: 1em auto;
+  padding: 0 auto;
+}
+
+button {
+  padding: 1em 2vw;
+  background-color: rgb(71, 204, 71);
+  color: rgb(68, 65, 65);
+  border: 1px solid rgb(71, 204, 71);
+  margin-left: 1em;
+}
+
+#angka {
+  padding: 1em 2vw;
+}
+
+li {
+  list-style-type: disc;
+}
+
+.fizzbuzz {
+  color: red;
+}
+
+.fizz {
+  color: blue;
+}
+
+.buzz {
+  color: rgb(19, 160, 19);
+}
